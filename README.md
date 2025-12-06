@@ -1,16 +1,14 @@
 # anime_verse
 
-A new Flutter project.
+## biodata
+Nama: Muhammad Alif Akbar Harahap
+NIM: 231401127
+Lab 2 Pemrograman mobile
 
-## Getting Started
+## deskripsi
+Anime Verse merupakan aplikasi yang bertema anime dimana user mampu ngelist anime favorit mereka. Sehingga jika user ingin mereview film tersebut, user dapat melihatnya kembali di fav-list
 
-This project is a starting point for a Flutter application.
+## file screenshoot
+https://drive.google.com/drive/folders/1LG1trD3S1EQ5ZsjSr1WAieg-tvAxpztF?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## link demo aplikasi
