@@ -2,7 +2,9 @@
 
 ## biodata
 Nama: Muhammad Alif Akbar Harahap
+
 NIM: 231401127
+
 Lab 2 Pemrograman mobile
 
 ## deskripsi
@@ -12,3 +14,4 @@ Anime Verse merupakan aplikasi yang bertema anime dimana user mampu ngelist anim
 https://drive.google.com/drive/folders/1LG1trD3S1EQ5ZsjSr1WAieg-tvAxpztF?usp=sharing
 
 ## link demo aplikasi
+https://drive.google.com/file/d/1ibiucdmtzed7UhzZzGxx5OwXhZpdaonC/view?usp=drive_link
